@@ -1,6 +1,5 @@
 # 20104003_Aaliyah-Khalif-Handoyo_S1SEA_Pemrograman2
-### Mata Kuliah Pemrograman 2
-### Praktikkum Pemrograman 2
+### Mata Kuliah Praktikum Pemrograman 2
 
 <hr>
 
