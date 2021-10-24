@@ -1,4 +1,4 @@
-package Modul0.latihan;
+package Modul2.latihan;
 import java.util.Scanner;
 
 public class Abc {

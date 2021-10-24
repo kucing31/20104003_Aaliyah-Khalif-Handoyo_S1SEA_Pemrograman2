@@ -1,6 +1,5 @@
-package Modul0.latihan;
+package Modul2.latihan;
 
-import java.sql.SQLOutput;
 import  java.util.Scanner;
 public class AnakAyam {
     public static void main(String[] args) {

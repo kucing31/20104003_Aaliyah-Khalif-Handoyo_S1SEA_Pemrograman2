@@ -32,7 +32,7 @@ long p = 2147483648;
 ``` 
 Syntax diatas akan menampilkan error:
 ```java
-  C:\Aal's Files\Repository\20104003_AaliyahKhalifHandoyo_S1SEA_Pemrograman2\src\Modul0\latihan\BigInteger.java:5: error: integer number too large : 2147483648;
+  C:\Aal's Files\Repository\20104003_AaliyahKhalifHandoyo_S1SEA_Pemrograman2\src\Modul2\latihan\BigInteger.java:5: error: integer number too large : 2147483648;
 ```
   error ini terjadi dikarenakan java akan membaca tipe data ini sebagai tipe data integer bukan tipe data long oleh karena itu terjadi error, apabila kita ingin membuat tipe data tersebut menjadi long seperti syntax diatas maka kita harus menambahkan huruf "L" dibelakang angkanya agar java dapat membaca tipe data tersebut menjadi tipe data long.
   contoh nya seperti ini : long p = 2147483648L;

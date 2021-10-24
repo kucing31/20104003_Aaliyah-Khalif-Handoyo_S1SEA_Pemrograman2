@@ -1,4 +1,4 @@
-package Modul0.percobaan;
+package Modul2.percobaan;
 import java.util.Scanner;
 
 public class InputKeyboard {

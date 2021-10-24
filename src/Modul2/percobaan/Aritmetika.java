@@ -1,4 +1,4 @@
-package Modul0.percobaan;
+package Modul2.percobaan;
 
 public class Aritmetika {
     public static void main(String[] args) {
