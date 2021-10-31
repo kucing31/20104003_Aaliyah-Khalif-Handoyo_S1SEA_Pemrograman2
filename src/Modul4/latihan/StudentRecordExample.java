@@ -2,15 +2,15 @@ package Modul4.latihan;
 
 public class StudentRecordExample {
     public static void main(String[] args) {
-        StudentRecord Aal = new StudentRecord();
-        StudentRecord adalah = new StudentRecord();
+        StudentRecord Wahyu = new StudentRecord();
+        StudentRecord Ini = new StudentRecord();
         StudentRecord Nama = new StudentRecord();
 
-        Aal.setName("Aal");
-        adalah.setName("adalah");
+        Wahyu.setName("Wahyu");
+        Ini.setName("Ini");
         Nama.setName("Nama");
 
-        System.out.println(Aal.getName());
+        System.out.println(Wahyu.getName());
         System.out.println("Hitung : " + StudentRecord.getStudentCount());
     }
 }
