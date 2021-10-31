@@ -65,15 +65,15 @@ Jawaban :
     
     ```java
      public static void main(String[] args) {
-        StudentRecord Aal = new StudentRecord();
-        StudentRecord adalah = new StudentRecord();
+        StudentRecord Wahyu = new StudentRecord();
+        StudentRecord Ini = new StudentRecord();
         StudentRecord Nama = new StudentRecord();
 
-        Aal.setName("Aal");
-        adalah.setName("adalah");
+        Aal.setName("Wahyu");
+        adalah.setName("Ini");
         Nama.setName("Nama");
 
-        System.out.println(Aal.getName());
+        System.out.println(Wahyu.getName());
         System.out.println("Hitung : " + StudentRecord.getStudentCount());
     }
     ```
@@ -82,11 +82,11 @@ Jawaban :
     
     Pada bagian tersebut kita melakukan pembuatan setter name yang kemudian dipanggil untuk               memunculkan sebuah nama yang telah diinputkan kemudian dengan menggunakan getNam, hasil program        diatas akan menampilkan output seperti ini :
     ```java
-    Aal
+    Wahyu
     Hitung : 0
     ```
     
-    seperti yang dapat dilihat hasil yang didapatkan pada saat memasukkan berhasil memunculkan Aal         sesuai dengan yang sudah diinputkan namun Hitung nya tidak memiliki nilai itu dikarenakan pada         bagian constructornya di bagian getAverage tidak ada nilai yang diinputkan ke masing - masing         variable tersebut dan akhirnya memunculkan nilai 0.
+    seperti yang dapat dilihat hasil yang didapatkan pada saat memasukkan berhasil memunculkan Wahyu         sesuai dengan yang sudah diinputkan namun Hitung nya tidak memiliki nilai itu dikarenakan pada         bagian constructornya di bagian getAverage tidak ada nilai yang diinputkan ke masing - masing         variable tersebut dan akhirnya memunculkan nilai 0.
     
 <hr>
 
