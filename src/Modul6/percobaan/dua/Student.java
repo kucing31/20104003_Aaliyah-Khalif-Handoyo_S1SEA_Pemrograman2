@@ -1,6 +1,6 @@
 package Modul6.percobaan.dua;
 
-public class Student {
+public class Student extends Person {
 
     public Student() {
 //        super("Ini nama", "Ini alamat");
