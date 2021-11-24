@@ -5,6 +5,6 @@ public class Main {
         Mahasiswa aku = new Mahasiswa();
 
         aku.info();
-        aku.info("Ajib Syah Abad");
+        aku.info("Aaliyah Khalif Handoyo");
     }
 }

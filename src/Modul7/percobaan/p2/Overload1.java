@@ -1,7 +1,5 @@
 package Modul7.percobaan.p2;
 
-import Modul7.percobaan.p1.Overload;
-
 public class Overload1 {
     void myMethod(short s){
         System.out.println("short");

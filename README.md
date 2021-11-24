@@ -58,7 +58,7 @@ Disini Class B berperan sebagai Child Class atau sub-class dari class A, dan jug
 ```java
 package Modul7.percobaan.p1;
 
-public class C extends B {
+public class C  {
 
 }
 ```
